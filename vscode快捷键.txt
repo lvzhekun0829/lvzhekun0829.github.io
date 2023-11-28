@@ -1,0 +1,19 @@
+ctrl ( K + R)  命令大全
+ctrl J  下面面板
+ctrl B  左边面板
+
+Alt + 左  跳转函数后再跳转回来
+
+ctrl + (K + 0)  关闭所有函数
+ctrl + (K + j)  打开
+
+ctrl + f
+ctrl + h
+Alt + Enter	选中所有出现在查询中的
+ctrl + d
+
+Alt + Click	插入光标-支持多个
+Ctrl + U	撤销光标最后一次操作
+
+alt + 下
+alt + shift + 下
